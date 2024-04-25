@@ -11,6 +11,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 ## 📄 Templates
 
  * [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl)
+ * [Course material](https://github.com/bth-dipt-teaching/course-template)
 
 ## 🖥️ Demo Projects
 
