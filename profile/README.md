@@ -13,6 +13,12 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl)
 - [Course material](https://github.com/bth-dipt-teaching/course-template)
 
+
+## 🧾 Guides
+
+- [Git 101](https://github.com/andreas-bauer/git-101) -- Introduction to Git
+- [OSS on GitHub](https://github.com/andreas-bauer/oss-on-github) -- How to do Open Source Software (OSS) projects on GitHub
+
 ## 🖥️ Demo Projects
 
 - [Pokedex](https://github.com/bth-dipt-teaching/pokedex) -- Pokédex application developed with Flutter
