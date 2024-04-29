@@ -4,6 +4,10 @@ Welcome to a collection of teaching and teaching-related resources created and c
 Department of Software Engineering and Blekinge Intitute of Technology (Karlskrona, Sweden).
 See [the official website](https://www.bth.se/eng/about-bth/departments/softwareengineering/) for more information on DIPT and BTH.
 
+## 🗃️ Courses
+
+- [PA1489: Basic Software Engineering](https://github.com/bth-dipt-teaching/PA1489-Basic-SE)
+
 ## 💁 Presentations
 
 - [Requirements Engineering: a brief introduction](https://github.com/bth-dipt-teaching/req-eng-fundamentals)
