@@ -15,6 +15,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 ## 💁 Presentations
 
 - [Requirements Engineering: a brief introduction](https://github.com/bth-dipt-teaching/req-eng-fundamentals)
+- [Java for the Reluctant](https://github.com/mickesv/Reluctant-Java) together with a [Series of Videos on Youtube](https://www.youtube.com/playlist?list=PLRyU9jMTRIX7QUrxZF9HNLbdXtiv6F9MT)
 
 ## 📄 Templates
 
