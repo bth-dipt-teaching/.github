@@ -31,6 +31,15 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 ## 🖥️ Demo Projects
 
 - [Pokedex](https://github.com/bth-dipt-teaching/pokedex) -- Pokédex application developed with Flutter
+- [SorterTool](https://codeberg.org/mickesv/SorterTool.git) -- Some Sorting Algorithms in Java
+- [Java Ponies](https://codeberg.org/mickesv/JavaPonies.git) -- Desktop Ponies, in java
+- [QuoteFinder](https://github.com/mickesv/ProvisioningDeployment.git) -- node.js/express app with Docker Containers
+- [PonyVoter](https://codeberg.org/mickesv/PonyVoter.git) -- node.js/express app with Docker Containers
+- [Craic chat](https://codeberg.org/mickesv/craic.git) -- chat app in node.js, text-based UI, Docker Containers
+- [SQL Insert Statements for Pony Trading Cards Database](https://codeberg.org/mickesv/gists/raw/branch/main/TradingCards_insert.sql)
+- [SQL Statements for Creating and Populating Pony Trading Cards Database](https://codeberg.org/mickesv/gists/raw/branch/main/TradingCards_full.sql)
+- [MeanStreets](https://codeberg.org/mickesv/MeanStreets) -- Starting point for a text-based game REPL in Clojure.
+- [RomanAdder](https://codeberg.org/mickesv/RomanAdder) -- Simple web app that adds two numbers in Roman Literals. node.js/Docker Container.
 
 ## 🛠️ Utilities
 
