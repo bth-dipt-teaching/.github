@@ -6,13 +6,13 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 
 ## 🗃️ Courses
 
-- [PA1482: Applied Object Oriented Design](https://github.com/bth-dipt-teaching/PA1482-Applied-OO-Design)
 - [PA1489: Basic Software Engineering](https://github.com/bth-dipt-teaching/PA1489-Basic-SE)
 - [PA1458/PA1460/PA1472 Object Oriented Design](https://github.com/bth-dipt-teaching/PA1458-OO-Design)
 - PA2577 Applied Cloud Computing and Big Data
   - [Provisioning and Deployment](https://github.com/mickesv/ProvisioningDeployment)
   - [Big Data Analytics](https://github.com/mickesv/BigDataAnalytics)
 - [PA1417: Basic System Verification](https://github.com/bth-dipt-teaching/pa1417-sysver)
+- [PA1482: Applied Object Oriented Design](https://github.com/bth-dipt-teaching/PA1482-Applied-OO-Design)
 
 ## 💁 Presentations
 
