@@ -13,9 +13,11 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
   - [Provisioning and Deployment](https://github.com/mickesv/ProvisioningDeployment)
   - [Big Data Analytics](https://github.com/mickesv/BigDataAnalytics)
 - [PA1417: Basic System Verification](https://github.com/bth-dipt-teaching/pa1417-sysver)
+- PA1473: Software Development
+  - [Seminar: Professional Practice](https://github.com/bth-dipt-teaching/pa1473-swdev-profpracsem) 🔒 (not public)
 - [PA1454: Software Architecture and Quality](https://github.com/bth-dipt-teaching/pa1454-software-architecture) 🔒 (not public)
 - [PA2588: DevSecOps](https://github.com/bth-dipt-teaching/pa2588-devsecops) 🔒 (not public)
-- [PA2601: DevSecOps](https://github.com/bth-dipt-teaching/pa2601-devsecops) 🔒 (not public)
+  - to be replaced by: [PA2601: DevSecOps](https://github.com/bth-dipt-teaching/pa2601-devsecops) 🔒 (not public)
 - PA1481 Digital Ethics & Sustainability
   - [Module: Digital Ethics](https://github.com/bth-dipt-teaching/pa1481-digital-ethics) 🔒 (not public)
 
