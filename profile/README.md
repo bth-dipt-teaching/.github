@@ -31,7 +31,6 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl)
 - [Course material](https://github.com/bth-dipt-teaching/course-template)
 
-
 ## 🧾 Guides
 
 - [Git 101](https://github.com/andreas-bauer/git-101) -- Introduction to Git
@@ -49,6 +48,12 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - [SQL Statements for Creating and Populating Pony Trading Cards Database](https://codeberg.org/mickesv/gists/raw/branch/main/TradingCards_full.sql)
 - [MeanStreets](https://codeberg.org/mickesv/MeanStreets) -- Starting point for a text-based game REPL in Clojure.
 - [RomanAdder](https://codeberg.org/mickesv/RomanAdder) -- Simple web app that adds two numbers in Roman Literals. node.js/Docker Container.
+
+---
+
+## ⚙️ Internal Organization
+
+- [Education Meeting](https://github.com/bth-dipt-teaching/education-meeting) 🔒 (not public)
 
 ## 🛠️ Utilities
 
