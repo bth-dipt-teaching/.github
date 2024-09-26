@@ -12,7 +12,6 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - PA2577 Applied Cloud Computing and Big Data
   - [Provisioning and Deployment](https://github.com/mickesv/ProvisioningDeployment)
   - [Big Data Analytics](https://github.com/mickesv/BigDataAnalytics)
-- [PA1417: Basic System Verification](https://github.com/bth-dipt-teaching/pa1417-sysver)
 
 ## 💁 Presentations
 
