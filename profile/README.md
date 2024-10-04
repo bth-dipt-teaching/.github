@@ -12,6 +12,9 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - PA2577 Applied Cloud Computing and Big Data
   - [Provisioning and Deployment](https://github.com/mickesv/ProvisioningDeployment)
   - [Big Data Analytics](https://github.com/mickesv/BigDataAnalytics)
+- PA2588 DevSecOps
+  - [Playground: SAST](https://github.com/bth-dipt-teaching/pa2588-devsecops-sast)
+  - [Playground: Container Security](https://github.com/bth-dipt-teaching/pa2588-devsecops-container-security)
 
 ## 💁 Presentations
 
