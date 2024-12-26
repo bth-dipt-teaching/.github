@@ -1,7 +1,7 @@
 # Teaching at the Department for Software Engineering (DIPT) at Blekinge Institute of Technology (BTH)
 
 Welcome to a collection of teaching and teaching-related resources created and compiled by members of the
-Department of Software Engineering and Blekinge Intitute of Technology (Karlskrona, Sweden).
+Department of Software Engineering and Blekinge Institute of Technology (Karlskrona, Sweden).
 See [the official website](https://www.bth.se/eng/about-bth/departments/softwareengineering/) for more information on DIPT and BTH.
 
 ## 🗃️ Courses
