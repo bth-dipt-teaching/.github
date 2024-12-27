@@ -16,6 +16,13 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
   - [Playground: Static Application Security Testing (SAST)](https://github.com/bth-dipt-teaching/pa2588-devsecops-sast)
   - [Playground: Software Composition Analysis (SCA)](https://github.com/bth-dipt-teaching/pa2588-devsecops-sast)
   - [Playground: Container Security](https://github.com/bth-dipt-teaching/pa2588-devsecops-container-security)
+- PA2534 Master Thesis in Software Engineering
+  - [Degree Project Guidelines](https://github.com/bth-dipt-teaching/DP_guidelines)
+  - [Project Plan Template](https://github.com/bth-dipt-teaching/DP_project-plan_tmpl)
+  - [Thesis Template](https://github.com/bth-dipt-teaching/DP_thesis_tmpl)
+  - [Rejoinder Template](https://github.com/bth-dipt-teaching/DP_rejoinder_tmpl)
+  - [Opposition Report Template](https://github.com/bth-dipt-teaching/DP_opposition-report_tmpl)
+  - [Topic Suggestion Template](https://github.com/bth-dipt-teaching/DP_topic-suggestion_tmpl) 
 
 ## 💁 Presentations
 
