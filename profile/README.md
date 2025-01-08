@@ -31,9 +31,18 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 
 ## 📄 Templates
 
-- [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl)
-- [Course material](https://github.com/bth-dipt-teaching/course-template)
+- [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl) (for students)
+- [Course material](https://github.com/bth-dipt-teaching/course-template) (for course managers)
 
+## 🎓 Degree Projects
+
+- [Degree Projects Guidelines](https://github.com/bth-dipt-teaching/DP_guidelines) (for students, supervisors, and examiners)
+- [Template: Topic Suggestion](https://github.com/bth-dipt-teaching/DP_topic-suggestion_tmpl) (for supervisors)
+- [Template: Project Plan](https://github.com/bth-dipt-teaching/DP_project-plan_tmpl) (for students)
+- [Template: Thesis](https://github.com/bth-dipt-teaching/DP_thesis_tmpl) (for students)
+- [Template: Opposition Report](https://github.com/bth-dipt-teaching/DP_opposition-report_tmpl) (for students)
+- [Template: Rejoinder](https://github.com/bth-dipt-teaching/DP_rejoinder_tmpl) (for students)
+ 
 ## 🧾 Guides
 
 - [Git 101](https://github.com/andreas-bauer/git-101) -- Introduction to Git
