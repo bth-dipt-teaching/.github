@@ -9,6 +9,8 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - [PA1489: Basic Software Engineering](https://github.com/bth-dipt-teaching/PA1489-Basic-SE)
 - [PA1458/PA1460/PA1472 Object Oriented Design](https://github.com/bth-dipt-teaching/PA1458-OO-Design)
 - [PA1482: Applied Object Oriented Design](https://github.com/bth-dipt-teaching/PA1482-Applied-OO-Design)
+- PA1484: Software Development
+  - [ESP32-S3 Skeleton project](https://github.com/bth-dipt-teaching/ESP32-S3-Skeleton)
 - PA2577 Applied Cloud Computing and Big Data
   - [Provisioning and Deployment](https://github.com/mickesv/ProvisioningDeployment)
   - [Big Data Analytics](https://github.com/mickesv/BigDataAnalytics)
@@ -22,7 +24,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
   - [Thesis Template](https://github.com/bth-dipt-teaching/DP_thesis_tmpl)
   - [Rejoinder Template](https://github.com/bth-dipt-teaching/DP_rejoinder_tmpl)
   - [Opposition Report Template](https://github.com/bth-dipt-teaching/DP_opposition-report_tmpl)
-  - [Topic Suggestion Template](https://github.com/bth-dipt-teaching/DP_topic-suggestion_tmpl) 
+  - [Topic Suggestion Template](https://github.com/bth-dipt-teaching/DP_topic-suggestion_tmpl)
 
 ## 💁 Presentations
 
@@ -42,7 +44,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 - [Template: Thesis](https://github.com/bth-dipt-teaching/DP_thesis_tmpl) (for students)
 - [Template: Opposition Report](https://github.com/bth-dipt-teaching/DP_opposition-report_tmpl) (for students)
 - [Template: Rejoinder](https://github.com/bth-dipt-teaching/DP_rejoinder_tmpl) (for students)
- 
+
 ## 🧾 Guides
 
 - [Git 101](https://github.com/andreas-bauer/git-101) -- Introduction to Git
