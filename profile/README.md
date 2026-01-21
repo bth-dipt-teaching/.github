@@ -20,6 +20,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
   - [Playground: Container Security](https://github.com/bth-dipt-teaching/pa2588-devsecops-container-security)
 - PA2534 Master Thesis in Software Engineering
   - [Degree Project Guidelines](https://github.com/bth-dipt-teaching/DP_guidelines)
+  - [GenAI Policy](https://github.com/bth-dipt-teaching/genai-policy/blob/main/pa2534-msc-vt2026.md)
   - [Project Plan Template](https://github.com/bth-dipt-teaching/DP_project-plan_tmpl)
   - [Thesis Template](https://github.com/bth-dipt-teaching/DP_thesis_tmpl)
   - [Rejoinder Template](https://github.com/bth-dipt-teaching/DP_rejoinder_tmpl)
