@@ -36,6 +36,7 @@ See [the official website](https://www.bth.se/eng/about-bth/departments/software
 
 - [Assignments](https://github.com/bth-dipt-teaching/DIPT_assignment_tmpl) (for students)
 - [Course material](https://github.com/bth-dipt-teaching/course-template) (for course managers)
+- [GenAI Policy template](https://github.com/bth-dipt-teaching/genai-policy) (for course managers)
 
 ## 🎓 Degree Projects
 
